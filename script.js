@@ -18,7 +18,7 @@ const questions = [
         ]
     },
     {
-        question: "who do Sahil Sharma loves the most?",
+        question: "who does Sahil Sharma loves the most?",
         answers: [
             {text: "shristi", correct: false},
             {text: "Anamika Rangra", correct: false},
