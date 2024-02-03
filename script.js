@@ -43,6 +43,15 @@ const questions = [
             {text: "getting caught with a minor", correct: false},
             { text : "all of the above", correct: true},
         ]
+    },
+     {
+        question: "Jagtap will return from Delhi with?",
+        answers: [
+            {text: "Damaged kidney and lungs", correct: false},
+            {text: "lot's pf coding and job experiance", correct: false},
+            {text: "15000rs in Cash", correct: false},
+            { text : "all of the above", correct: true},
+        ]
     }
 
 ];
