@@ -1,6 +1,6 @@
 const questions = [
     {
-        question: "when did Bitcoin ?",
+        question: "what year did Bitcoin launch ?",
         answers: [
             {text: "2008", correct: false},
             {text: "9 January 2009", correct: true},
